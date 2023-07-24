@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-07-22T15:30:37.578Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>SuJiaxin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>P1256显示图像</title>
+    <link href="http://example.com/2023/07/22/P1256%E6%98%BE%E7%A4%BA%E5%9B%BE%E5%83%8F/"/>
+    <id>http://example.com/2023/07/22/P1256%E6%98%BE%E7%A4%BA%E5%9B%BE%E5%83%8F/</id>
+    <published>2023-07-22T15:30:37.000Z</published>
+    <updated>2023-07-22T15:30:37.578Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>P1003铺地毯</title>
+    <link href="http://example.com/2023/07/22/P1003%E9%93%BA%E5%9C%B0%E6%AF%AF/"/>
+    <id>http://example.com/2023/07/22/P1003%E9%93%BA%E5%9C%B0%E6%AF%AF/</id>
+    <published>2023-07-22T15:29:39.000Z</published>
+    <updated>2023-07-24T14:20:57.080Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
