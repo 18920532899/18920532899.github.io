@@ -1,3 +1,4 @@
+http://example.com/2023/10/24/yolov8/
 http://example.com/2023/10/07/142%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8/
 http://example.com/2023/09/18/43-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E4%B9%98/
 http://example.com/2023/09/18/6-N%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2/
